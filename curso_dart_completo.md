@@ -287,6 +287,23 @@ void main() {
 }
 ```
 
+=== Análisis de notas ===
+
+Nota 1: 15.5 - Muy bien
+Nota 2: 12.0 - Bien
+Nota 3: 18.5 - Excelente
+Nota 4: 9.5 - Insuficiente
+Nota 5: 14.0 - Muy bien
+
+=== Estadísticas ===
+Media: 13.90
+Nota máxima: 18.50
+Nota mínima: 9.50
+Número de notas ≥ 10: 4
+
+=== Resultado final ===
+Mención: Mención Aceptable
+
 ---
 
 ## Parte 9 — Practicas 
