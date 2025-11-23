@@ -216,7 +216,8 @@ Cahier des charges
    - La note la plus basse
    - Le nombre de notes >= 10
 3.Pour chaque note, affichez: - Le numéro de la note (1, 2, 3, etc.)
-   - La valeur de la note - Une appréciation selon le barème: * >= 16: "Excellent" * >= 14: "Très bien" * >= 12: "Bien" * >= 10: "Assez bien" * < 10: "Insuffisant"  
+   - La valeur de la note - Une appréciation selon le barème:
+     por >= 16: "Excellent" por >= 14: "Très bien" por >= 12: "Bien" por >= 10: "Assez bien" por < 10: "Insuffisant"  
 4.Déterminez et affichez la mention finale selon la moyenne:
   - >= 16: "Mention Très Bien"
   - >= 14: "Mention Bien"
