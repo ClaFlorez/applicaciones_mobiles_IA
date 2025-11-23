@@ -50,6 +50,12 @@ Ideal para estudiantes, desarrolladores principiantes y creadores de contenido e
 Framework principal para crear apps móviles, web y desktop.
 
 ---
+# macOS/Linux:
+# Descarga Flutter SDK
+git clone https://github.com/flutter/flutter.git -b stable
+export PATH="$PATH:`pwd`/flutter/bin"
+
+
 
 ## 🤖 Android SDK (incluido con Android Studio)  
 🔗 https://developer.android.com/studio  
