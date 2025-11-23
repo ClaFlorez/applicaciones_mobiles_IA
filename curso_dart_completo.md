@@ -300,5 +300,3 @@ void main() {
 - Persistencia local  
 
 ---
-
-_Este archivo está listo para GitHub y para utilizarlo en tu repositorio de aprendizaje de Dart._
