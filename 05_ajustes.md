@@ -134,11 +134,3 @@ Tu proyecto Flutter quedó completamente funcional:
 
 ---
 
-## 💜 Si necesitas:
-
-- Exportar este documento a PDF
-- Crear más pantallas para tu app
-- Agregar navegación
-- Crear versión web
-
-¡solo dímelo! 🚀
