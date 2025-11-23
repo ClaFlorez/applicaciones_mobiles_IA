@@ -205,6 +205,31 @@ int sumar(int a, int b){
 
 Código completo basado en el enunciado:
 
+Exercice Récapitulatif Final
+Contexte: Vous devez créer un programme de gestion de notes d'étudiants.
+
+Cahier des charges
+1. Créez une liste de 5 notes (nombres décimaux entre 0 et 20)
+2. Calculez et affichez:
+   - La moyenne des notes
+   - La note la plus élevée
+   - La note la plus basse
+   - Le nombre de notes >= 10
+3.Pour chaque note, affichez: - Le numéro de la note (1, 2, 3, etc.)
+   - La valeur de la note - Une appréciation selon le barème: * >= 16: "Excellent" * >= 14: "Très bien" * >= 12: "Bien" * >= 10: "Assez bien" * < 10: "Insuffisant"  
+4.Déterminez et affichez la mention finale selon la moyenne:
+  - >= 16: "Mention Très Bien"
+  - >= 14: "Mention Bien"
+  - >= 12: "Mention Assez Bien"
+  - >= 10: "Mention Passable"
+  - < 10: "Non admis"
+5. Utilisez les concepts suivants:
+  - Variables (int, double, String, List)
+  - Boucles (for ou for-in)
+  - Conditions (if-else if-else ou switch)
+  - Opérateurs (arithmétiques, comparaison)
+  - Interpolation de chaînes
+
 ```dart
 void main() {
   List<double> notas = [15.5, 12.0, 18.5, 9.5, 14.0];
