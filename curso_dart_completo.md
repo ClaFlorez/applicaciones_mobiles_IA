@@ -1,7 +1,5 @@
 # Curso Completo de Dart — Para estudiantes que ya dominan Python
 
-(Basado en el PDF original subido)
-
 ## Parte 1 — Introducción a Dart y Flutter
 
 ### 1.1 ¿Qué es Dart?
