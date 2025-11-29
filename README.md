@@ -126,15 +126,6 @@ Incluye:
 - Widgets (TaskList y diálogo)  
 - Arquitectura simple y escalable  
 
-📸 **Sugerencia de imágenes (añádelas a tu repo):**
-- `docs/images/mi_primera_app_home.png` — Pantalla principal con lista de tareas.  
-- `docs/images/mi_primera_app_add.png` — Diálogo para agregar tarea.  
-
-```markdown
-![Pantalla principal To-Do](docs/images/mi_primera_app_home.png)
-![Diálogo nueva tarea](docs/images/mi_primera_app_add.png)
-```
-
 ---
 
 # 🚦 Proyecto 2: App de Tránsito Flutter
@@ -146,17 +137,6 @@ Incluye:
 - UI completa  
 - Permisos Android/iOS  
 - Roadmap profesional  
-
-📸 **Sugerencia de imágenes (añádelas a tu repo):**
-- `docs/images/transito_home.png` — Vista de estado del tránsito.  
-- `docs/images/transito_report.png` — Pantalla para reportar incidente.  
-- `docs/images/transito_my_reports.png` — Historial de reportes del usuario.  
-
-```markdown
-![Estado del tránsito](docs/images/transito_home.png)
-![Reportar incidente](docs/images/transito_report.png)
-![Mis reportes](docs/images/transito_my_reports.png)
-```
 
 ---
 
