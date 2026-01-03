@@ -1,4 +1,4 @@
-# 🌟 **Claud-IA — Guía Completa Flutter 2025**  
+# 🌟 **Claud-IA — Guía Completa Flutter 2026**  
 ### 🚀 Instalación • SDKs • Configuración • Primer Proyecto • Arquitecturas • Ejemplos Reales
 
 ---
